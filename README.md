@@ -1,42 +1,15 @@
-<h3>Hi 👋, I'm Abu Huzaifa</h3>
-<p><em>I am a Java Full Stack Developer with over 2 years of hands-on experience in developing and deploying robust web applications using Java, Spring Boot, React.js, and RESTful APIs. My expertise includes working with relational databases like PostgreSQL and MySQL, implementing secure authentication with Spring Security and JWT, and containerizing applications using Docker. I have practical knowledge of version control with Git, CI/CD workflows, and deploying projects on AWS services such as EC2 and S3. I thrive in Agile environments, consistently delivering clean, maintainable code and scalable solutions from backend to frontend.</em></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iuzaifa&label=Profile%20views&color=0e75b6&style=flat" alt="iuzaifa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iuzaifa" alt="iuzaifa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/iiuzaifa" target="blank"><img src="https://img.shields.io/twitter/follow/iiuzaifa?logo=twitter&style=for-the-badge" alt="iiuzaifa" /></a> </p>
-
-- 🌱 I’m currently learning **I’m currently deepening my knowledge of Microservices Architecture, exploring Spring Cloud, Kafka, and advanced AWS services like Lambda and API Gateway. I'm also sharpening my frontend skills with TypeScript and Next.js to build more scalable and modern web applications.**
-
-- 📝 I regularly write articles on [https://medium.com/@abuhuzaifaw5/java-roadmap-c33b072bf412](https://medium.com/@abuhuzaifaw5/java-roadmap-c33b072bf412)
-
-- 💬 Ask me about **Java, Spring Boot, Reacr, MySQL, PostgrSQL, JavaScript, ....**
-
-- 📫 How to reach me **abuhuzaifaw7@gmail.com**
-
-- 📄 Know about my experiences [https://medium.com/@abuhuzaifaw5/resume-writing-ab58d24de9fa](https://medium.com/@abuhuzaifaw5/resume-writing-ab58d24de9fa)
-
-- ⚡ Fun fact **I once debugged a production issue using just browser console logs… and caffeine. ☕😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iiuzaifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iiuzaifa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/abu-huzaifa-7b40b9286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abu-huzaifa-7b40b9286" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/29773687/abu-huzaifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/29773687/abu-huzaifa" height="30" width="40" /></a>
-<a href="https://instagram.com/iiuzaiifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iiuzaiifa" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/abuhuzaifaw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/abuhuzaifaw7" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/abuhuzaifa11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abuhuzaifa11" height="30" width="40" /></a>
-<a href="https://medium.com/@abuhuzaifaw5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abuhuzaifaw5" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/abuhuzaifa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abuhuzaifa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abuhuzaiifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abuhuzaiifa" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9100&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Abu+Huzaifa;Java+Full+Stack+Developer;Code.+Debug.+Repeat.;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iuzaifa&show_icons=true&locale=en&layout=compact" alt="iuzaifa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&locale=en" alt="iuzaifa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iuzaifa&" alt="iuzaifa" /></p>
+```java
+const mySkills = {
+  languages:        ['Java', 'JavaScript','HTML', 'CSS', 'Basic Python'],
+  frameworks:       ['Spring Boot', 'React' 'Bootstrap', 'Tailwind Css'],
+  databases:        ['MySQL', 'MongoDB', 'PostgreSQL'],
+  tools:            ['Git', 'GitHub', 'VSCode' , 'Docker', 'Postman', 'IntelliJ IDEA'],
+  cloud:            ['AWS'],
+};
+```
