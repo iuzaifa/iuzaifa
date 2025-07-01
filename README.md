@@ -1,8 +1,11 @@
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9100&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Abu+Huzaifa;Java+Full+Stack+Developer;Code.+Debug.+Repeat.;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=hey+there!+i'm+Abu+Huzaifa;Full+Stact+Developer;Code.+Debug.+Repeat.;Consistency+beats+talent" alt="Typing SVG" />
   </a>
 </p>
+
+------
 
 ```javascript
 const mySkills = {
