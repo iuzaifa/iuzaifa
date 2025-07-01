@@ -4,7 +4,7 @@
   </a>
 </p>
 
-```java
+```javascript
 const mySkills = {
   languages:        ['Java', 'JavaScript','HTML', 'CSS', 'Basic Python'],
   frameworks:       ['Spring Boot', 'React' 'Bootstrap', 'Tailwind Css'],
