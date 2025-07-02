@@ -22,8 +22,8 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 [![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iiuzaifa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iiuzaifa/)
 [![Discord](https://img.shields.io/badge/Discord-abuhuzaifa__10491-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/abuhuzaifa_10491)
-## ⚙️ Technologies & Tools
 
+<!-- ## ⚙️ Technologies & Tools -->
 <!-- ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -54,29 +54,17 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
-##ff
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark) -->
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- Profile Stats -->
-  <a href="https://github.com/iuzaifa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="Abu Huzaifa's GitHub Stats" />
-  </a>
-  <!-- Language Stats -->
-  <a href="https://github.com/iuzaifa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&exclude_repo=github-readme-stats" alt="Top Languages" />
-  </a>
-</div>
+##  GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark)
 
 
 
 
 
 
-sdd
+
+
+
 
 
 ## 🏆 GitHub Trophies
