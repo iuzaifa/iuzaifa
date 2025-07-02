@@ -5,9 +5,6 @@
 </p>
 
 
-<p align="center">
-  <img src="awesome.jpg" alt="banner" width="100%" height="200px" />
-</p>
 
 
 
