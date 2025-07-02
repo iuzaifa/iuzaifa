@@ -17,27 +17,46 @@ const mySkills = {
   cloud:            ['AWS'],
 };
 ```
+
+
+### 🌐 Connect with Me
+
 <p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abu-huzaifa-7b40b9286">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&border=1px%20solid%20%23004182&box-shadow=0%204px%200%20%23003A75" alt="LinkedIn" />
+  </a>
+  
+  <!-- Email -->
   <a href="mailto:abuhuzaifaw7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A43524&border=1px%20solid%20%23952E1F&box-shadow=0%204px%200%20%237E281A" alt="Email" />
   </a>
-  <a href="https://x.com/iiuzaifa" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  
+  <!-- Twitter -->
+  <a href="https://x.com/iiuzaifa">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1A1A1A&border=1px%20solid%20%23111111&box-shadow=0%204px%200%20%230A0A0A" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/abu-huzaifa-7b40b9286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/iiuzaifa/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584&border=1px%20solid%20%23912862&box-shadow=0%204px%200%20%2379205E" alt="Instagram" />
   </a>
-  <a href="https://www.instagram.com/iiuzaifa/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/abuhuzaiifa">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=E68A00&border=1px%20solid%20%23D17A00&box-shadow=0%204px%200%20%23B86E00" alt="LeetCode" />
   </a>
-  <a href="https://leetcode.com/u/abuhuzaiifa/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/abuhuzaifa">
+    <img src="https://custom-icon-badges.demolab.com/badge/-CodeChef-5B3B24?style=for-the-badge&logo=codechef&logoColor=white&labelColor=6B4C35&border=1px%20solid%20%234A3727&box-shadow=0%204px%200%20%233A2A1F" alt="CodeChef" />
   </a>
-  <a href="https://www.codechef.com/users/abuhuzaifa" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23594C3E.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://medium.com/@abuhuzaifaw5" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  
+  <!-- GitHub -->
+  <a href="https://github.com/iuzaifa">
+    <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github-mark-white&logoColor=white&labelColor=0D1117&border=1px%20solid%20%23343A3F&box-shadow=0%204px%200%20%230A0C0E" alt="GitHub" />
   </a>
 </p>
+
+
 
