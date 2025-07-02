@@ -9,6 +9,12 @@ I am a Full-Stack Java Developer with a strong passion for building scalable, hi
 With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code that solves real-world problems.  
 My approach is driven by curiosity, continuous learning, and a commitment to delivering impactful solutions through technology.
 
+#### ⚙️ Technologies & Tools
+`Java` `JavaScript` `Spring Boot` `React` `Bootstrap` `MySQL` `MongoDB` `Oracle` `PostgreSQL`
+`Git` `GitHub` `Docker` `Postman` `IntelliJ IDEA` `Jenkins` `AWS`
+`HTML5` `CSS3` `Tailwind CSS` `VS Code` `Microservices` `JUnit` `Linux`
+`Adobe Illustrator` `CorelDRAW` `Canva` `MS Office` `SEO` `Figma`
+
 
 ## 📡  Ping Me on the Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-huzaifa-7b40b9286)
@@ -17,7 +23,8 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iiuzaifa/)
 [![Discord](https://img.shields.io/badge/Discord-abuhuzaifa__10491-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/abuhuzaifa_10491)
 ## ⚙️ Technologies & Tools
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+
+<!-- ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,7 +52,7 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 ##ff
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark) -->
@@ -58,19 +65,13 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
   <a href="https://github.com/iuzaifa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="Abu Huzaifa's GitHub Stats" />
   </a>
-  
   <!-- Language Stats -->
   <a href="https://github.com/iuzaifa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&exclude_repo=github-readme-stats" alt="Top Languages" />
   </a>
 </div>
 
-<div align="center">
-  <!-- Streak Stats -->
-  <a href="https://github.com/iuzaifa">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=iuzaifa&theme=dark&hide_border=true&background=0d1117&ring=1f6feb&fire=ffd33d&currStreakLabel=58a6ff" alt="GitHub Streak" />
-  </a>
-</div>
+
 
 
 
