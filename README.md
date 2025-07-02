@@ -111,7 +111,9 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 
 <h3> 🏆 Trophies</h3>
 
-<p align="center" style="background:hsl(0, 0.00%, 8.20%); padding: 20px;  border: 1px solid #242525;">
+
+
+<p align="center" style="background: linear-gradient(to right,#242525, #242525); padding: 20px;  border: 1px solid #242525;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=iuzaifa&theme=darkhub&no-bg=false&no-frame=false&margin-w=10"/>
   </a>
