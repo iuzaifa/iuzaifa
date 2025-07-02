@@ -1,67 +1,49 @@
 
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=525&height=92&lines=hey+there!+i'm+Abu+Huzaifa;Clean%2C+scalable%2C+and+impactful+software.+;-+it+works;Consistency+beats+talent" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iuzaifa&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
   &nbsp;&nbsp;
   <a href="https://github.com/iuzaifa?tab=followers">
     <img src="https://img.shields.io/github/followers/iuzaifa?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
   </a>
+
+  <a align="center" href="https://github.com/iuzaifa?tab=repositories">
+    <img src="https://img.shields.io/github/stars/iuzaifa?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
+  </a>
+
 </p> -->
 
+
+
+<h3 align="center">💫 About Me</h3>
+
 <p align="center">
-
-  <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=ilham&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  
-  <!-- Followers -->
-  <a href="https://github.com/ilham?tab=followers">
-    <img src="https://img.shields.io/github/followers/ilham?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
-  </a>
-
-  <!-- GitHub Stars -->
-  <a href="https://github.com/ilham?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ilham?affiliations=OWNER&style=for-the-badge&color=0e75b6" alt="Total Stars" />
-  </a>
-
-  <!-- Public Repos -->
-  <a href="https://github.com/ilham?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-💻-0e75b6?style=for-the-badge&logo=github" alt="Public Repositories" />
-  </a>
-
+  <span style="display: inline-block; text-align: justify; max-width: 600px;">
+    I am a Full-Stack Java Developer with a strong passion for building scalable, high-performance web applications.  
+    With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code that solves real-world problems.  
+    My approach is driven by curiosity, continuous learning, and a commitment to delivering impactful solutions through technology.
+  </span>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iuzaifa&label=Profile+Views&color=ff6347&style=flat&logo=github" alt="Profile Views" />
+  <a href="https://github.com/iuzaifa?tab=followers">
+    <img src="https://img.shields.io/github/followers/iuzaifa?label=Followers&style=flat&color=1e90ff&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/iuzaifa?tab=repositories">
+    <img src="https://img.shields.io/github/stars/iuzaifa?label=Stars&style=flat&color=32cd32&logo=github" alt="GitHub Stars" />
+  </a>
+</div>
 
 
 
-
-
-
-
-
-<!-- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=525&height=92&lines=hey+there!+i'm+Abu+Huzaifa;Clean%2C+scalable%2C+and+impactful+software.+;-+it+works;Consistency+beats+talent" alt="Typing SVG" />
-  </a> -->
-
-
-## 💫 About Me
-I am a Full-Stack Java Developer with a strong passion for building scalable, high-performance web applications.  
-With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code that solves real-world problems.  
-My approach is driven by curiosity, continuous learning, and a commitment to delivering impactful solutions through technology.
-
-<!-- #### ⚙️ Technologies & Tools
-`Java` `JavaScript` `Spring Boot` `React` `Bootstrap` `MySQL` `MongoDB` `Oracle` `PostgreSQL`
-`Git` `GitHub` `Docker` `Postman` `IntelliJ IDEA` `Jenkins` `AWS`
-`HTML5` `CSS3` `Tailwind CSS` `VS Code` `Microservices` `JUnit` `Linux`
-`Adobe Illustrator` `CorelDRAW` `Canva` `MS Office` `SEO` `Figma` -->
-
-
-## 📡  Ping Me on the Socials
+#### 📡  Ping Me on the Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-huzaifa-7b40b9286)
 [![Email](https://img.shields.io/badge/Email-abuhuzaifaw7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhuzaifaw7@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iiuzaifa)
@@ -69,6 +51,8 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 [![Discord](https://img.shields.io/badge/Discord-abuhuzaifa__10491-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/abuhuzaifa_10491)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abuhuzaiifa)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abuhuzaifa)
+
+
 
 
 <br>
