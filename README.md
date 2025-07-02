@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="profile.png" alt="Welcome Banner" width="800"/>
-</p>
+
 
 
 
@@ -70,6 +68,18 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 
 
 
+
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark&border_color=2ea043&hide_border=false&hide_title=false" width="400"/> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&border_color=2ea043&hide_border=false" width="400"/> </td> </tr> </table> <table> </table>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iuzaifa&theme=github-dark&border=2ea043)
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=github-compact&hide_border=false&area=true&area_color=2ea043&point=2ea043&color=2ea043" width="100%" /> </p>
+
+
+## 🐍 GitHub Contribution Snake Game
+
+![Snake animation](https://raw.githubusercontent.com/iuzaifa/iuzaifa/output/github-contribution-grid-snake.svg)
 
 
 
