@@ -12,11 +12,11 @@ I am a Full-Stack Java Developer with a strong passion for building scalable, hi
 With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code that solves real-world problems.  
 My approach is driven by curiosity, continuous learning, and a commitment to delivering impactful solutions through technology.
 
-#### ⚙️ Technologies & Tools
+<!-- #### ⚙️ Technologies & Tools
 `Java` `JavaScript` `Spring Boot` `React` `Bootstrap` `MySQL` `MongoDB` `Oracle` `PostgreSQL`
 `Git` `GitHub` `Docker` `Postman` `IntelliJ IDEA` `Jenkins` `AWS`
 `HTML5` `CSS3` `Tailwind CSS` `VS Code` `Microservices` `JUnit` `Linux`
-`Adobe Illustrator` `CorelDRAW` `Canva` `MS Office` `SEO` `Figma`
+`Adobe Illustrator` `CorelDRAW` `Canva` `MS Office` `SEO` `Figma` -->
 
 
 ## 📡  Ping Me on the Socials
@@ -28,8 +28,8 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abuhuzaiifa)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abuhuzaifa)
 
-<!-- ## ⚙️ Technologies & Tools -->
-<!-- ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+### ⚙️ Technologies & Tools
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -57,7 +57,7 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=github-compact&hide_border=false&area=true&area_color=2ea043&point=2ea043&color=2ea043" width="100%" /> </p>
@@ -72,6 +72,8 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iuzaifa&theme=github-dark&border=2ea043)
+
+
 
 
 
