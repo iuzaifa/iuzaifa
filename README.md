@@ -22,6 +22,8 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 [![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iiuzaifa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iiuzaifa/)
 [![Discord](https://img.shields.io/badge/Discord-abuhuzaifa__10491-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/abuhuzaifa_10491)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abuhuzaiifa)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abuhuzaifa)
 
 <!-- ## ⚙️ Technologies & Tools -->
 <!-- ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -53,21 +55,33 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
+<br>
 
-##  GitHub Stats
+<p align="center">
+<h3> GitHub Stats</h3>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark)
 
 
+<h3>🔥 GitHub Contribution Streak</h3>
+
+<img src="https://streak-stats.demolab.com?user=iuzaifa&theme=github_dark" alt="GitHub Streak" />
+
+
+
+
+ <h3>Languages I’ve Used</h3>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages Used" />
+</p>
 
 
 
 
 
 
+<h3> 🏆 GitHub Trophies</h3>
 
-
-
-## 🏆 GitHub Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=iuzaifa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -79,13 +93,6 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 
 
 
-
-
-
-
-## 🧠 DSA & Competitive Coding
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abuhuzaiifa)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abuhuzaifa)
 
 
 
