@@ -21,7 +21,7 @@ const mySkills = {
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abu-huzaifa-7b40b9286">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&border=1px%20solid%20%23004182&box-shadow=0%204px%200%20%23003A75" alt="LinkedIn" />
