@@ -1,7 +1,6 @@
 
 
 
-
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=525&height=92&lines=hey+there!+i'm+Abu+Huzaifa;Clean%2C+scalable%2C+and+impactful+software.+;-+it+works;Consistency+beats+talent" alt="Typing SVG" />
   </a>
@@ -27,6 +26,86 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 [![Discord](https://img.shields.io/badge/Discord-abuhuzaifa__10491-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/abuhuzaifa_10491)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abuhuzaiifa)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abuhuzaifa)
+
+
+<br>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=github-compact&hide_border=false&area=true&area_color=2ea043&point=2ea043&color=2ea043" width="100%" /> </p>
+
+
+
+
+<table> <tr> <td> 
+
+![Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=dark)
+</td> <td>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=dark" width="400"/>
+ 
+
+ </td> </tr> </table> <table> </table>
+
+
+<!-- Alternative 1 -->
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iuzaifa&theme=dark)
+
+
+
+<!-- <p align="center">
+  <a href="https://github.com/iuzaifa/KunalDSAInterviewCourse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iuzaifa&repo=KunalDSAInterviewCourse&theme=dark" />
+  </a>
+</p> -->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/iuzaifa/KunalDSAInterviewCourse">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iuzaifa&repo=KunalDSAInterviewCourse&theme=dark" width="220" height="130" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/iuzaifa/dailycodework-application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iuzaifa&repo=dailycodework-application&theme=dark" width="220" height="130" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/iuzaifa/spring_authentication">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iuzaifa&repo=spring_authentication&theme=dark" width="220" height="130" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/iuzaifa/spring-crud-architecture">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iuzaifa&repo=spring-crud-architecture&theme=dark" width="220" height="130" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/iuzaifa/Inkspire">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iuzaifa&repo=Inkspire&theme=dark" width="220" height="130" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/iuzaifa/Library-Management-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iuzaifa&repo=Library-Management-System&theme=dark" width="220" height="130" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/iuzaifa/git_fundamentals">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iuzaifa&repo=git_fundamentals&theme=dark" width="220" height="130" />
+      </a>
+    </td>
+    <td>
+      <!-- Empty cell to balance layout -->
+    </td>
+  </tr>
+</table>
+
+
+<h3> 🏆 Trophies</h3>
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=iuzaifa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### ⚙️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -58,34 +137,6 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=github-compact&hide_border=false&area=true&area_color=2ea043&point=2ea043&color=2ea043" width="100%" /> </p>
-
-<h3> 🏆 Trophies</h3>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=iuzaifa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-<table> <tr> <td> 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=dark)
-</td> <td>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=dark" width="400"/>
- 
-
- </td> </tr> </table> <table> </table>
-
-
-
-
-<!-- Alternative 1 -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iuzaifa&theme=dark)
-
-
-
 
 
 
