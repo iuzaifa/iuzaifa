@@ -1,31 +1,22 @@
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=525&height=92&lines=hey+there!+i'm+Abu+Huzaifa;Clean%2C+scalable%2C+and+impactful+software.+;-+it+works;Consistency+beats+talent" alt="Typing SVG" />
   </a>
-</p>
 
-<hr>
 
 ## 💫 About Me
-
 I am a Full-Stack Java Developer with a strong passion for building scalable, high-performance web applications.  
 With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code that solves real-world problems.  
 My approach is driven by curiosity, continuous learning, and a commitment to delivering impactful solutions through technology.
 
 
-### 📡  Ping Me on the Socials
-
-
+## 📡  Ping Me on the Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-huzaifa-7b40b9286)
 [![Email](https://img.shields.io/badge/Email-abuhuzaifaw7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhuzaifaw7@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iiuzaifa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iiuzaifa/)
 [![Discord](https://img.shields.io/badge/Discord-abuhuzaifa__10491-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/abuhuzaifa_10491)
- 
-<hr>
-
-### ⚙️ Technologies & Tools
+## ⚙️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -56,14 +47,12 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<hr>
 
 
 
 ## 🧠 DSA & Competitive Coding
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abuhuzaiifa)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abuhuzaifa)
-<hr>
 
 
 
