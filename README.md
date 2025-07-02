@@ -57,7 +57,7 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 <br>
 
-<p align="center">
+<!-- <p align="center">
 <h3> GitHub Stats</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark)
@@ -73,7 +73,7 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
  <h3>Languages I’ve Used</h3>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages Used" />
-</p>
+</p> -->
 
 
 
