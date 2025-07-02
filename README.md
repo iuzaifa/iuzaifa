@@ -59,13 +59,12 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 <br>
-<h3> 🏆 GitHub Trophies</h3>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=github-compact&hide_border=false&area=true&area_color=2ea043&point=2ea043&color=2ea043" width="100%" /> </p>
+
+<h3> 🏆 Trophies</h3>
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=iuzaifa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
 
 
 
@@ -74,12 +73,12 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iuzaifa&theme=github-dark&border=2ea043)
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=github-compact&hide_border=false&area=true&area_color=2ea043&point=2ea043&color=2ea043" width="100%" /> </p>
 
 
-## 🐍 GitHub Contribution Snake Game
 
-![Snake animation](https://raw.githubusercontent.com/iuzaifa/iuzaifa/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 
