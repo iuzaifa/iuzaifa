@@ -5,58 +5,55 @@
   </a>
 </p>
 
+---
+### 💫 About Me
+Hello! I'm a passionate **Full-Stack Java Developer**, constantly exploring new technologies to build innovative and high-performance applications.
 
-------
+I genuinely **love building clean, scalable applications** that solve real-world problems. My journey in tech is fueled by a constant desire for knowledge, and I'm **always learning new technologies** to refine my craft.
 
-```javascript
-const mySkills = {
-  languages:        ['Java', 'JavaScript','HTML', 'CSS', 'Basic Python'],
-  frameworks:       ['Spring Boot', 'React' 'Bootstrap', 'Tailwind Css'],
-  databases:        ['MySQL', 'MongoDB', 'PostgreSQL'],
-  tools:            ['Git', 'GitHub', 'VSCode' , 'Docker', 'Postman', 'IntelliJ IDEA'],
-  cloud:            ['AWS'],
-};
-```
+I'm currently **open to remote opportunities** where I can contribute my skills and grow with an innovative team.
 
 
-### 🌐 Connect with Me
+### 🚀 What I'm Up To
 
-<p>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/abu-huzaifa-7b40b9286">
-    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&border=1px%20solid%20%23004182&box-shadow=0%204px%200%20%23003A75" alt="LinkedIn" />
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:abuhuzaifaw7@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A43524&border=1px%20solid%20%23952E1F&box-shadow=0%204px%200%20%237E281A" alt="Email" />
-  </a>
-  
-  <!-- Twitter -->
-  <a href="https://x.com/iiuzaifa">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1A1A1A&border=1px%20solid%20%23111111&box-shadow=0%204px%200%20%230A0A0A" alt="Twitter" />
-  </a>
-  
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/iiuzaifa/">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584&border=1px%20solid%20%23912862&box-shadow=0%204px%200%20%2379205E" alt="Instagram" />
-  </a>
-  
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/abuhuzaiifa">
-    <img src="https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=E68A00&border=1px%20solid%20%23D17A00&box-shadow=0%204px%200%20%23B86E00" alt="LeetCode" />
-  </a>
-  
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/abuhuzaifa">
-    <img src="https://custom-icon-badges.demolab.com/badge/-CodeChef-5B3B24?style=for-the-badge&logo=codechef&logoColor=white&labelColor=6B4C35&border=1px%20solid%20%234A3727&box-shadow=0%204px%200%20%233A2A1F" alt="CodeChef" />
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/iuzaifa">
-    <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github-mark-white&logoColor=white&labelColor=0D1117&border=1px%20solid%20%23343A3F&box-shadow=0%204px%200%20%230A0C0E" alt="GitHub" />
-  </a>
-</p>
+* 🔭 **I’m currently working on:** Creating Web Applications
+* 👯 **I’m looking to collaborate on:** Exciting Projects
+* 🤝 **I’m looking for help with:** Internship Opportunities
+* 🌱 **I’m currently learning:** Data Structures & Algorithms (DSA)
+* 💬**Ask me about:** Programming, Projects, DSA, Web Applications, UI-UX, GUI Development, Game Design & Development
+* ⚡ **Fun Fact:** My code doesn’t have bugs, it has random features. 👾  
+
+---
+
+### ⚙️ Technologies & Tools
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
 
 
