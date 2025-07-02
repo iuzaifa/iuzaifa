@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="awesome.jpg" alt="banner" width="100%" height="200px" />
+</p>
 
 
 
@@ -33,6 +36,8 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=github-compact&hide_border=false&area=true&area_color=2ea043&point=2ea043&color=2ea043" width="100%" /> </p>
 
 
+<!-- Alternative 1 -->
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iuzaifa&theme=dark)
 
 
 <table> <tr> <td> 
@@ -46,8 +51,6 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
  </td> </tr> </table> <table> </table>
 
 
-<!-- Alternative 1 -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iuzaifa&theme=dark)
 
 
 
@@ -56,7 +59,7 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iuzaifa&repo=KunalDSAInterviewCourse&theme=dark" />
   </a>
 </p> -->
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <a href="https://github.com/iuzaifa/KunalDSAInterviewCourse">
@@ -96,10 +99,9 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
       </a>
     </td>
     <td>
-      <!-- Empty cell to balance layout -->
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <h3> 🏆 Trophies</h3>
