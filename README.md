@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="profile.png" alt="Welcome Banner" width="800"/>
+</p>
+
+
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=525&height=92&lines=hey+there!+i'm+Abu+Huzaifa;Clean%2C+scalable%2C+and+impactful+software.+;-+it+works;Consistency+beats+talent" alt="Typing SVG" />
@@ -56,33 +61,12 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 <br>
-
-<!-- <p align="center">
-<h3> GitHub Stats</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark)
-
-
-<h3>🔥 GitHub Contribution Streak</h3>
-
-<img src="https://streak-stats.demolab.com?user=iuzaifa&theme=github_dark" alt="GitHub Streak" />
-
-
-
-
- <h3>Languages I’ve Used</h3>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages Used" />
-</p> -->
-
-
-
-
-
-
 <h3> 🏆 GitHub Trophies</h3>
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=iuzaifa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 
 
