@@ -1,35 +1,27 @@
-
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=525&height=92&lines=hey+there!+i'm+Abu+Huzaifa;Clean%2C+scalable%2C+and+impactful+software.+;-+it+works;Consistency+beats+talent" alt="Typing SVG" />
-  </a>
+  <img src="huzaifa.png" alt="Profile" width="130" style="border-radius: 50%; border: 2px solid #6cc644;" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F700&width=500&lines=Hey+there!+I'm+Abu+Huzaifa;Clean%2C+Scalable%2C+Impactful+Code;Consistency+beats+talent" alt="Typing SVG" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iuzaifa&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/iuzaifa?tab=followers">
-    <img src="https://img.shields.io/github/followers/iuzaifa?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  </a>
-
-  <a align="center" href="https://github.com/iuzaifa?tab=repositories">
-    <img src="https://img.shields.io/github/stars/iuzaifa?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
-  </a>
-
-</p> -->
-
-
-
-<h3 align="center">💫 About Me</h3>
-
+<!-- About Me -->
 <p align="center">
-  <span style="display: inline-block; text-align: justify; max-width: 1024px;">
-    I am a Full-Stack Java Developer with a strong passion for building scalable, high-performance web applications.  
-    With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code that solves real-world problems.  
+  <h2><strong>About Me</strong></h2>
+  <em>
+    I am a <strong>Full-Stack Java Developer</strong> with a strong passion for building scalable, high-performance web applications.<br />
+    With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code
+    that solves real-world problems.<br />
     My approach is driven by curiosity, continuous learning, and a commitment to delivering impactful solutions through technology.
-  </span>
+  </em>
 </p>
+
+
+
+
+
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iuzaifa&label=Profile+Views&color=ff6347&style=flat&logo=github" alt="Profile Views" />
@@ -176,26 +168,8 @@
 
 
 
-<table align="center">
-  <tr>
-    <!-- Profile Image -->
-    <td align="center" style="width: 200px;">
-      <img src="huzaifa.png" alt="Profile" width="130"  border: 2px solid #6cc644;" />
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F700&width=500&lines=Hey+there!+I'm+Abu+Huzaifa;Clean%2C+Scalable%2C+Impactful+Code;Consistency+beats+talent" alt="Typing SVG" />
-      </p>
-      <h2><strong>About Me</strong></h2>
-      <em>
-        I am a <strong>Full-Stack Java Developer</strong> with a strong passion for building scalable, high-performance web applications.
-        With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code
-        that solves real-world problems. My approach is driven by curiosity, continuous learning, and a commitment to delivering
-        impactful solutions through technology.
-      </em>
-    </td>
-  </tr>
-</table>
+
+
 
 
 
