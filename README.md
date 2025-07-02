@@ -176,6 +176,32 @@
 
 
 
+<table align="center">
+  <tr>
+    <!-- Profile Image -->
+    <td align="center" style="width: 200px;">
+      <img src="huzaifa.png" alt="Profile" width="130"  border: 2px solid #6cc644;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F700&width=500&lines=Hey+there!+I'm+Abu+Huzaifa;Clean%2C+Scalable%2C+Impactful+Code;Consistency+beats+talent" alt="Typing SVG" />
+      </p>
+      <h2><strong>About Me</strong></h2>
+      <em>
+        I am a <strong>Full-Stack Java Developer</strong> with a strong passion for building scalable, high-performance web applications.
+        With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code
+        that solves real-world problems. My approach is driven by curiosity, continuous learning, and a commitment to delivering
+        impactful solutions through technology.
+      </em>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 
