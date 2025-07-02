@@ -49,10 +49,21 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/iuzaifa">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/iuzaifa">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iuzaifa&theme=github-dark&hide_border=true" alt="GitHub Streak" />
