@@ -1,6 +1,6 @@
-<!-- <h1>hey I am Abu Huzaifa<h1>
 
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=525&height=92&lines=hey+there!+i'm+Abu+Huzaifa;Clean%2C+scalable%2C+and+impactful+software.+;-+it+works;Consistency+beats+talent" alt="Typing SVG" />
   </a>
@@ -13,28 +13,32 @@
     <img src="https://img.shields.io/github/followers/iuzaifa?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
   </a>
 </p> -->
-<!-- Heading -->
-<h1 align="center">Hey I am Abu Huzaifa 👋</h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=525&height=92&lines=Hey+there!+I'm+Abu+Huzaifa;Clean%2C+scalable%2C+and+impactful+software.;-+It+Works.;Consistency+beats+talent" alt="Typing SVG" />
+
+  <!-- Visitor Count -->
+  <img src="https://komarev.com/ghpvc/?username=ilham&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- Followers -->
+  <a href="https://github.com/ilham?tab=followers">
+    <img src="https://img.shields.io/github/followers/ilham?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
   </a>
+
+  <!-- GitHub Stars -->
+  <a href="https://github.com/ilham?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ilham?affiliations=OWNER&style=for-the-badge&color=0e75b6" alt="Total Stars" />
+  </a>
+
+  <!-- Public Repos -->
+  <a href="https://github.com/ilham?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-💻-0e75b6?style=for-the-badge&logo=github" alt="Public Repositories" />
+  </a>
+
 </p>
 
-<!-- Stats Box -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iuzaifa&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/iuzaifa?tab=followers">
-    <img src="https://img.shields.io/github/followers/iuzaifa?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/iuzaifa?label=Stars&style=for-the-badge&color=0e75b6" alt="GitHub Stars" />
-  &nbsp;
-  <img src="https://img.shields.io/github/repo-count/iuzaifa?label=Repositories&style=for-the-badge&color=0e75b6" alt="Public Repositories" />
-</p>
+
+
+
 
 
 
