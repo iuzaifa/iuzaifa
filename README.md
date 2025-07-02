@@ -24,7 +24,7 @@
 <h3 align="center">💫 About Me</h3>
 
 <p align="center">
-  <span style="display: inline-block; text-align: justify; max-width: 600px;">
+  <span style="display: inline-block; text-align: justify; max-width: 1024px;">
     I am a Full-Stack Java Developer with a strong passion for building scalable, high-performance web applications.  
     With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code that solves real-world problems.  
     My approach is driven by curiosity, continuous learning, and a commitment to delivering impactful solutions through technology.
@@ -45,12 +45,14 @@
 
 #### 📡  Ping Me on the Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-huzaifa-7b40b9286)
-[![Email](https://img.shields.io/badge/Email-abuhuzaifaw7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhuzaifaw7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhuzaifaw7@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iiuzaifa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iiuzaifa/)
-[![Discord](https://img.shields.io/badge/Discord-abuhuzaifa__10491-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/abuhuzaifa_10491)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/abuhuzaifa_10491)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abuhuzaiifa)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abuhuzaifa)
+
+
 
 
 
