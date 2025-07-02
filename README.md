@@ -68,19 +68,20 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 
 
 
-<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark&border_color=2ea043&hide_border=false&hide_title=false" width="400"/> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&border_color=2ea043&hide_border=false" width="400"/> </td> </tr> </table> <table> </table>
+<table> <tr> <td> 
+
+![Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=dark)
+</td> <td>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&border_color=2ea043&hide_border=false" width="400"/> 
+
+ </td> </tr> </table> <table> </table>
 
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iuzaifa&theme=github-dark&border=2ea043) -->
 
-
-
-
 <!-- This one won't work on GitHub -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iuzaifa&theme=github-dark&border=2ea043)
-
-
-
 
 
 
