@@ -5,25 +5,25 @@
   </a>
 </p>
 
----
-### 💫 About Me
-Hello! I'm a passionate **Full-Stack Java Developer**, constantly exploring new technologies to build innovative and high-performance applications.
+<hr>
 
-I genuinely **love building clean, scalable applications** that solve real-world problems. My journey in tech is fueled by a constant desire for knowledge, and I'm **always learning new technologies** to refine my craft.
+## 💫 About Me
 
-I'm currently **open to remote opportunities** where I can contribute my skills and grow with an innovative team.
+I am a Full-Stack Java Developer with a strong passion for building scalable, high-performance web applications.  
+With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code that solves real-world problems.  
+My approach is driven by curiosity, continuous learning, and a commitment to delivering impactful solutions through technology.
 
 
-### 🚀 What I'm Up To
+### 📡  Ping Me on the Socials
 
-* 🔭 **I’m currently working on:** Creating Web Applications
-* 👯 **I’m looking to collaborate on:** Exciting Projects
-* 🤝 **I’m looking for help with:** Internship Opportunities
-* 🌱 **I’m currently learning:** Data Structures & Algorithms (DSA)
-* 💬**Ask me about:** Programming, Projects, DSA, Web Applications, UI-UX, GUI Development, Game Design & Development
-* ⚡ **Fun Fact:** My code doesn’t have bugs, it has random features. 👾  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-huzaifa-7b40b9286)
+[![Email](https://img.shields.io/badge/Email-abuhuzaifaw7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhuzaifaw7@gmail.com)
+[![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iiuzaifa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iiuzaifa/)
+[![Discord](https://img.shields.io/badge/Discord-abuhuzaifa__10491-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/abuhuzaifa_10491)
+ 
+<hr>
 
 ### ⚙️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -36,10 +36,10 @@ I'm currently **open to remote opportunities** where I can contribute my skills 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,6 +54,17 @@ I'm currently **open to remote opportunities** where I can contribute my skills 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<hr>
+
+
+
+## 🧠 DSA & Competitive Coding
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abuhuzaiifa)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abuhuzaifa)
+<hr>
+
 
 
 
