@@ -47,27 +47,21 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
-
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
-<a href="https://github.com/iuzaifa">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark&hide_border=true" />
-</a>
+  <div style="border: 1px solid #2C2C2C; border-radius: 10px; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="300"/>
+  </div>
 
-<a href="https://github.com/iuzaifa">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&hide_border=true" />
-</a>
+  <div style="border: 1px solid #2C2C2C; border-radius: 10px; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="300"/>
+  </div>
 
 </div>
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iuzaifa&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 
 
