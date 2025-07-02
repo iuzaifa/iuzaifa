@@ -50,6 +50,33 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="200"/>
+</p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iuzaifa&theme=github-dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+</p>
+
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=iuzaifa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+
+
+
+
+
+
 ## 🧠 DSA & Competitive Coding
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abuhuzaiifa)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abuhuzaifa)
