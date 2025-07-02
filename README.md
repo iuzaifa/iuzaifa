@@ -47,24 +47,35 @@ My approach is driven by curiosity, continuous learning, and a commitment to del
 ![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+##ff
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark) -->
+
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<div align="center">
+  <!-- Profile Stats -->
+  <a href="https://github.com/iuzaifa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="Abu Huzaifa's GitHub Stats" />
+  </a>
+  
+  <!-- Language Stats -->
+  <a href="https://github.com/iuzaifa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&exclude_repo=github-readme-stats" alt="Top Languages" />
+  </a>
+</div>
 
-  <div style="border: 1px solid #2C2C2C; border-radius: 10px; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="300"/>
-  </div>
-
-  <div style="border: 1px solid #2C2C2C; border-radius: 10px; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="300"/>
-  </div>
-
+<div align="center">
+  <!-- Streak Stats -->
+  <a href="https://github.com/iuzaifa">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=iuzaifa&theme=dark&hide_border=true&background=0d1117&ring=1f6feb&fire=ffd33d&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  </a>
 </div>
 
 
 
 
+sdd
 
 
 ## 🏆 GitHub Trophies
