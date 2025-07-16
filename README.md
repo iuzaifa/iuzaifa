@@ -9,10 +9,10 @@
 <p align="center">
   <h2><strong>About Me</strong></h2>
   <em>
-    I am a <strong>Full-Stack Java Developer</strong> with a strong passion for building scalable, high-performance web applications.<br />
-    With a deep interest in both backend and frontend technologies, I continuously strive to write clean, maintainable code
-    that solves real-world problems.<br />
-    My approach is driven by curiosity, continuous learning, and a commitment to delivering impactful solutions through technology.
+    I am a <strong>Full-Stack Java Developer</strong> and highly interested in the creation of the scalability and high-performance application of the web.<br />
+    Being interested in backend and frontend technologies on many levels, I always aspire to produce clean and maintainable code
+    which provides solutions to real life problems.
+    I rely on curiosity and incessant learning as well as service to people by enacting effective solutions with technology.
   </em>
 </p>
 
