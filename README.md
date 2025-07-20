@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="huzaifa.png" alt="Profile" width="130" style="border-radius: 50%; border: 2px solid #6cc644;" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F700&width=500&lines=Hey+there!+I'm+Abu+Huzaifa;Clean%2C+Scalable%2C+Impactful+Code;Consistency+beats+talent" alt="Typing SVG" />
 </p>
 
