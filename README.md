@@ -1,3 +1,5 @@
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHuV36LyGQLQA/profile-displaybackgroundimage-shrink_350_1400/B4DZhMywSVGsAY-/0/1753635033722?e=1756339200&v=beta&t=eg_UJfX6f6GcofUhVQ22RRk_n4xxHwtrAId7h6KDuUw)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F700&width=500&lines=Hey+there!+I'm+Abu+Huzaifa;Clean%2C+Scalable%2C+Impactful+Code;Consistency+beats+talent" alt="Typing SVG" />
 </p>
