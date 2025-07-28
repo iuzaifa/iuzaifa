@@ -77,7 +77,7 @@
 
 
 
- <table align="center">
+ <!--<table align="center">
   <tr>
     <td>
       <a href="https://github.com/iuzaifa/KunalDSAInterviewCourse">
@@ -119,7 +119,7 @@
     <td>
     </td>
   </tr>
-</table>
+</table>-->
 
 
 <!--<h3> 🏆 Trophies</h3>
