@@ -61,11 +61,11 @@
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=github-compact&hide_border=false&area=true&area_color=2ea043&point=2ea043&color=2ea043" width="100%" /> </p>
 
 
-<!-- Alternative 1 -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iuzaifa&theme=dark)
+<!-- Alternative 1
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iuzaifa&theme=dark) -->
 
 
-<table> <tr> <td> 
+<!--<table> <tr> <td> 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=iuzaifa&show_icons=true&theme=dark)
 </td> <td>
@@ -73,18 +73,11 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzaifa&layout=compact&theme=dark" width="400"/>
  
 
- </td> </tr> </table> <table> </table>
+ </td> </tr> </table> <table> </table>-->
 
 
 
-
-
-<!-- <p align="center">
-  <a href="https://github.com/iuzaifa/KunalDSAInterviewCourse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iuzaifa&repo=KunalDSAInterviewCourse&theme=dark" />
-  </a>
-</p> -->
-<!-- <table align="center">
+ <table align="center">
   <tr>
     <td>
       <a href="https://github.com/iuzaifa/KunalDSAInterviewCourse">
@@ -126,16 +119,16 @@
     <td>
     </td>
   </tr>
-</table> -->
+</table>
 
 
-<h3> 🏆 Trophies</h3>
+<!--<h3> 🏆 Trophies</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=iuzaifa&theme=dark=false&no-bg=false&margin-w=15"/>
   </a>
-</p>
+</p>-->
 
 
 
@@ -144,31 +137,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS_Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 
