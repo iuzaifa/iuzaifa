@@ -13,10 +13,7 @@
 <p align="center">
   <h2><strong>About Me</strong></h2>
   <em>
-    I am a <strong>Full-Stack Java Developer</strong> and highly interested in the creation of the scalability and high-performance application of the web.<br />
-    Being interested in backend and frontend technologies on many levels, I always aspire to produce clean and maintainable code
-    which provides solutions to real life problems.
-    I rely on curiosity and incessant learning as well as service to people by enacting effective solutions with technology.
+    Java full stack developer, 2 years history of developing and deploying scalable web applications. Skilled in Spring Boot, React.js and databases (MySQL, MongoDB and PostgreSQL). Understanding of how to create secure REST APIs and execute good JWT authentication. Experienced in designing responsive user-friendly interfaces on Bootstrap and Tailwind CSS.
   </em>
 </p>
 
