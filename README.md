@@ -1,12 +1,5 @@
-<h1 align="left">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=26&width=700&pause=1000&lines=Hi,+I'm+Abu+Huzaifa;Full+Stack+Java+Developer;Spring+Boot+Backend+Engineer;JWT+Security+%7C+REST+APIs+%7C+Microservices" 
-    alt="Typing SVG"
-  />
-</h1>
+## ```$ whoami```
 
-
- ### Who I Am
 
 Full Stack Java Developer with 2+ years of professional experience building secure and scalable applications using Spring Boot, React, and modern databases. Specialized in JWT-based authentication systems, centralized admin dashboards, ETL APIs, and secure backend architecture. Experienced in delivering production-ready systems with clean and maintainable code.
  ## Tech Stack
