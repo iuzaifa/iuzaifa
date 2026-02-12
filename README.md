@@ -1,7 +1,6 @@
 <!-- ========================================= -->
-<!--        Abu Huzaifa | Full Stack Dev      -->
+        Abu Huzaifa | Full Stack Dev     
 <!-- ========================================= -->
-
 ```bash
 $ whoami
 Abu Huzaifa
@@ -16,9 +15,8 @@ $ experience
 2+ Years
 ```
 
----
 
-## 🧑‍💻 about.java
+### about.java
 
 ```java
 public class AbuHuzaifa {
@@ -35,9 +33,7 @@ public class AbuHuzaifa {
 }
 ```
 
----
-
-## ⚙️ tech-stack.json
+### tech-stack.json
 
 ```json
 {
@@ -50,9 +46,9 @@ public class AbuHuzaifa {
 }
 ```
 
----
 
-## 🏢 experience.log
+
+### experience.log
 
 ```bash
 [2025-11] Full Stack Java Developer @ Soffuture Technologies
@@ -70,11 +66,11 @@ public class AbuHuzaifa {
 → Designed branding using Figma & Adobe Suite
 ```
 
----
 
-## 🚀 projects/
 
-### 📌 College Admin Panel (Frontend)
+###  projects/
+
+#### College Admin Panel (Frontend)
 
 ```bash
 Tech: React.js + Tailwind CSS + Recharts
@@ -88,9 +84,9 @@ Live:
 https://my-collage-admin.vercel.app
 ```
 
----
 
-### 📌 College Management System (Backend)
+
+#### College Management System (Backend)
 
 ```bash
 Tech: Spring Boot + JPA + MySQL
@@ -104,9 +100,9 @@ GitHub:
 https://github.com/iuzaifa/cms
 ```
 
----
 
-## 🎓 education.sql
+
+### education.sql
 
 ```sql
 SELECT degree, institution, year
@@ -120,9 +116,9 @@ Diploma (CABA-MDTP)
 NIELIT, New Delhi
 ```
 
----
 
-## 📊 github-stats.sh
+
+### github-stats.sh
 
 ```bash
 $ git config --global user.name "Abu Huzaifa"
@@ -134,9 +130,9 @@ $ git push origin main
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=tokyo-night" width="100%"/>
 </p>
 
----
 
-## 📬 contact.me
+
+### contact.me
 
 ```yaml
 phone: +91-6387869214
@@ -146,7 +142,7 @@ github: github.com/iuzaifa
 leetcode: leetcode.com/u/abuhuzaifaw7
 ```
 
----
+
 
 ```diff
 + Open to Full Stack Java Developer Opportunities
