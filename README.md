@@ -1,3 +1,10 @@
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=26&width=700&pause=1000&lines=Hi,+I'm+Abu+Huzaifa;Full+Stack+Java+Developer;Spring+Boot+Backend+Engineer;JWT+Security+%7C+REST+APIs+%7C+Microservices" 
+    alt="Typing SVG"
+  />
+</h1>
+
 
 ### Who I Am
 
