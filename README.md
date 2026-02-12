@@ -1,62 +1,156 @@
-## About Me
+<!-- ========================================= -->
+<!--        Abu Huzaifa | Full Stack Dev      -->
+<!-- ========================================= -->
 
-Java Full Stack Developer with **2+ years of experience** in building and deploying **scalable, secure web applications**.  
-Strong expertise in **Spring Boot, React.js**, and relational & NoSQL databases including **MySQL, PostgreSQL, and MongoDB**.
+```bash
+$ whoami
+Abu Huzaifa
 
-Core competencies include:
-- Secure REST API development with JWT-based authentication
-- Responsive UI development using Bootstrap and Tailwind CSS
-- Clean, maintainable, production-ready code practices
-- Microservices architecture and backend system design
+$ role
+Full Stack Java Developer
 
-</br>
-</br>
-</br>
+$ location
+New Delhi, India
 
+$ experience
+2+ Years
+```
+
+---
+
+## 🧑‍💻 about.java
+
+```java
+public class AbuHuzaifa {
+
+    String role = "Full Stack Java Developer";
+    String[] backend = {"Java", "Spring Boot", "JWT", "REST APIs", "ETL"};
+    String[] frontend = {"React.js", "Next.js", "Tailwind CSS", "MUI"};
+    String[] databases = {"MySQL", "PostgreSQL", "MongoDB"};
+    String[] tools = {"Git", "Docker", "Jenkins", "AWS", "Linux"};
+
+    public String focus() {
+        return "Building secure, scalable, production-ready applications.";
+    }
+}
+```
+
+---
+
+## ⚙️ tech-stack.json
+
+```json
+{
+  "languages": ["Java", "JavaScript", "SQL", "HTML", "CSS"],
+  "frameworks": ["Spring Boot", "React.js", "Next.js"],
+  "security": ["JWT Authentication", "RBAC", "Spring Security"],
+  "databases": ["MySQL", "PostgreSQL", "MongoDB"],
+  "devops": ["Docker", "Jenkins", "AWS"],
+  "tools": ["Git", "Postman", "Swagger", "IntelliJ", "VS Code"]
+}
+```
+
+---
+
+## 🏢 experience.log
+
+```bash
+[2025-11] Full Stack Java Developer @ Soffuture Technologies
+→ Built Central Authentication System using JWT & Spring Boot
+→ Integrated secure REST APIs with React frontend
+→ Implemented dynamic user session handling
+
+[2024-08 — 2025-10] Full Stack Java Developer @ Code Compass LLP
+→ Developed shared JWT authentication system
+→ Designed centralized Admin Dashboard
+→ Built secure ETL module (Spring Boot REST API)
+
+[2023-07 — 2024-07] Website & Graphic Designer Intern @ RS Top Coder
+→ Developed responsive websites (HTML, CSS, JS, Bootstrap)
+→ Designed branding using Figma & Adobe Suite
+```
+
+---
+
+## 🚀 projects/
+
+### 📌 College Admin Panel (Frontend)
+
+```bash
+Tech: React.js + Tailwind CSS + Recharts
+Features:
+✔ Student & Teacher Management
+✔ Fee Transactions
+✔ Dashboard Analytics
+✔ Responsive UI
+
+Live:
+https://my-collage-admin.vercel.app
+```
+
+---
+
+### 📌 College Management System (Backend)
+
+```bash
+Tech: Spring Boot + JPA + MySQL
+Features:
+✔ Role-Based Access Control
+✔ Book Issuance & Returns
+✔ Fine Calculation
+✔ Secure REST APIs
+
+GitHub:
+https://github.com/iuzaifa/cms
+```
+
+---
+
+## 🎓 education.sql
+
+```sql
+SELECT degree, institution, year
+FROM education;
+
+B.A. (Geography & Sociology)
+Dr. Ram Manohar Lohia Avadh University
+2020 - 2023
+
+Diploma (CABA-MDTP)
+NIELIT, New Delhi
+```
+
+---
+
+## 📊 github-stats.sh
+
+```bash
+$ git config --global user.name "Abu Huzaifa"
+$ git commit -m "Consistent coding. Continuous learning."
+$ git push origin main
+```
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=tokyo-night" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=tokyo-night" width="100%"/>
 </p>
 
+---
 
-### Technologies and Tools
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+## 📬 contact.me
 
-### Contact and Profiles
+```yaml
+phone: +91-6387869214
+email: abuhuzaifaw7@gmail.com
+linkedin: linkedin.com/in/huzaifa23
+github: github.com/iuzaifa
+leetcode: leetcode.com/u/abuhuzaifaw7
+```
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abu-huzaifa-7b40b9286">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abuhuzaifaw7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/iiuzaifa">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/iiuzaifa/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/abuhuzaifa_10491">
-    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/abuhuzaiifa">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/abuhuzaifa">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
+---
+
+```diff
++ Open to Full Stack Java Developer Opportunities
++ Interested in Backend Engineering & Secure API Architecture
+```
+
+<!-- End of Developer CV -->
