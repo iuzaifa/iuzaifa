@@ -11,7 +11,7 @@
 Full Stack Java Developer with 2+ years of professional experience building secure and scalable applications using Spring Boot, React, and modern databases. Specialized in JWT-based authentication systems, centralized admin dashboards, ETL APIs, and secure backend architecture. Experienced in delivering production-ready systems with clean and maintainable code.
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,mysql,postgres,mongodb,tailwind,bootstrap,js,html,css,git,github,linux,aws,postman,idea,vscode&perline=50" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,angular,nextjs,mysql,postgres,mongodb,tailwind,bootstrap,js,html,css,git,github,linux,aws,postman,idea,vscode&perline=50" />
 </p>
 
  ## GitHub Statistics
