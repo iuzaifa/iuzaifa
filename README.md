@@ -1,12 +1,5 @@
 ### ```$ whoami I'm Abu Huzaifa```
-<p>
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=a3e635&width=750&lines=Hey+there!+I+am+Abu+Huzaifa;Full+Stack+Java+Developer;Building+Secure+and+Scalable+Web+Applications;Spring+Boot+%7C+React+MERN STACK%7C+JWT+%7C+PostgreSQL"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+
 
 Full Stack Java Developer with 2+ years of professional experience building secure and scalable applications using Spring Boot, React, and modern databases. Specialized in JWT-based authentication systems, centralized admin dashboards, ETL APIs, and secure backend architecture. Experienced in delivering production-ready systems with clean and maintainable code.
 ## Tech Stack
