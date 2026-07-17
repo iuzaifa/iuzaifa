@@ -15,7 +15,7 @@
 - 🔭 Java Full Stack Developer with **2+ years** of experience building secure, scalable web applications
 - 💻 Core stack: **Spring Boot**, **Spring Security**, **Hibernate/JPA**, **React.js**, **TypeScript**, **Redux Toolkit**
 - 🔐 Specialized in **RESTful API design**, **JWT authentication**, and **role-based access control (RBAC)**
-- 🗄️ Comfortable across SQL & NoSQL: **MySQL**, **PostgreSQL**, **MongoDB**
+- 🗄️ Comfortable across SQL & NoSQL: **MySQL**, **PostgreSQL**, **MongoDB fff**
 - 📐 Experienced across the full **SDLC** — requirement analysis, API design, debugging, performance optimization, deployment
 - 📍 Based in New Delhi, India | Open to Full Stack / Java / React roles across Delhi NCR
 - 🌱 Currently building **Job Tracker Pro** and exploring enterprise-grade CMS architecture
