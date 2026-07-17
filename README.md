@@ -17,7 +17,6 @@
 - 🔐 Specialized in **RESTful API design**, **JWT authentication**, and **role-based access control (RBAC)**
 - 🗄️ Comfortable across SQL & NoSQL: **MySQL**, **PostgreSQL**, **MongoDB**
 - 📐 Experienced across the full **SDLC** — requirement analysis, API design, debugging, performance optimization, deployment
-- 📍 Based in New Delhi, India | Open to Full Stack / Java / React roles across Delhi NCR
 - 🌱 Currently building **Job Tracker Pro** and exploring enterprise-grade CMS architecture
 - ⚡ Fun fact: started with a B.A. in Geography & Sociology before moving into software development
 
@@ -67,9 +66,6 @@ Lightweight module for generating and managing QR codes, integrated into the Cam
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuzaifa&theme=github-dark&hide_border=true" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iuzaifa&theme=dark&hide_border=true" />
-</p>
 
 ---
 
